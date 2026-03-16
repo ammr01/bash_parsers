@@ -25,9 +25,9 @@ Only **Bash**, this is the idea, ~~no awk~~, ~~no grep~~, ~~no sed~~, only:
 
 ## Parsers
 
-**CSV Parser**
-Code: https://github.com/ammr01/bash_parsers/blob/main/csvparser.sh
-Documentation: https://github.com/ammr01/bash_parsers/blob/main/csvparser.md
+**CSV Parser** <br>
+Code: https://github.com/ammr01/bash_parsers/blob/main/csvparser.sh <br>
+Documentation: https://github.com/ammr01/bash_parsers/blob/main/csvparser.md <br>
 
 **JSON Parser** <br>
 Under Construction
