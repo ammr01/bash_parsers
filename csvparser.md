@@ -90,7 +90,8 @@ This example will show how to parse the csv string, and get specific range of it
 get_csv_range "$csv_string" 5,9 1,3
 ```
 
-the previous code will produce multiple variables:
+the previous code will get from 5th row -> 9th row "5 and 9 are inclueded", and from column 1 -> 3rd column, <br>
+and produces multiple variables:
 
 ```bash
 # variable used as flage to know if the columns count in the specified range is inconsistent
@@ -109,14 +110,24 @@ __ROW_X
 so to print the whole returned result use 
 
 ```bash
+ # loop to iterate over rows  
  for i in  "${__RANGE_ROWS[@]}" ; do
+
+        # clear the buffer 
         pbuf=""
+
+        # get the list name that holds cells of the row
         row_list_name="${i}"
+ 
         echo "${row_list_name}: "
 
+
+        # loop to iterate over cells in row X
         for i in "${!row_list_name}" ; do 
             pbuf="${pbuf}|${i}"
         done 
+
+        # echo the buffer
         echo "${pbuf#|}"
     done 
 
