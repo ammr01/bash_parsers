@@ -6,7 +6,7 @@
 # License: GPLV3 or later
 
 
-# Copyright (C) 2025 Amr Alasmer
+# Copyright (C) 2026 Amr Alasmer
 
 
 # csvparser is free software: you can redistribute it and/or modify it under
