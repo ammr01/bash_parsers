@@ -47,7 +47,7 @@ This project is licensed under the **GNU General Public License v3 or later**.
 
 ---
 
+
 ## Author
 
 **Amr Alasmer**
-This tool was developed to solve a real-world problem I saw on reddit and is shared with the hope it will help others too.
