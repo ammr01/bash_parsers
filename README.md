@@ -29,13 +29,13 @@ Only **Bash**, this is the idea, ~~no awk~~, ~~no grep~~, ~~no sed~~, only:
 Code: https://github.com/ammr01/bash_parsers/blob/main/csvparser.sh
 Documentation: https://github.com/ammr01/bash_parsers/blob/main/csvparser.md
 
-**JSON Parser**
+**JSON Parser** <br>
 Under Construction
 
-**HTML Parser**
+**HTML Parser** <br>
 Under Construction
 
-**REGEX Parser**
+**REGEX Parser** <br>
 Under Construction
 
 ---
