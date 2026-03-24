@@ -6,7 +6,7 @@
 
 ## What is this?
 
-`csvparser` is a bash library that provides functions to handle csv files in bash scripts without using external programs, every thing keept inside bash, which help reducing the dependicies, and make you projects more portable.
+`csvparser` is a bash library that provides functions to handle csv files in bash scripts without using external programs, everything is kept inside bash, which help reducing the dependencies, and make your projects more portable.
 
 ---
 
