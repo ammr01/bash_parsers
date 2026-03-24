@@ -277,5 +277,5 @@ This project is licensed under the **GNU General Public License v3 or later**.
 ---
 
 ## Authors
-**Enhanced Code By: Amr Alasmer**
+**Enhanced Code By: Amr Alasmer**<br>
 **Original Code By: fkalis**
