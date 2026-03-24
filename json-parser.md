@@ -6,7 +6,7 @@
 
 ## What is this?
 
-`json-parser` is a bash library that provides functions to handle json files in bash scripts without using external programs, every thing keept inside bash, which help reducing the dependicies, and make you projects more portable.
+`json-parser` is a bash library that provides functions to handle json files in bash scripts without using external programs, everything is kept inside bash, which help reducing the dependencies, and make your projects more portable.
 
 ---
 
@@ -17,7 +17,7 @@
 
 
 I found this project : https://github.com/fkalis/bash-json-parser <bt>
-by fkalis, and I enhanced the original code, the enhancments:
+by fkalis, and I enhanced the original code, the enhancements:
 
 * add querying capabilities like jq
 * made it x2 faster
