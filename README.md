@@ -30,7 +30,8 @@ Code: https://github.com/ammr01/bash_parsers/blob/main/csvparser.sh <br>
 Documentation: https://github.com/ammr01/bash_parsers/blob/main/csvparser.md <br>
 
 **JSON Parser** <br>
-Under Construction
+Code: https://github.com/ammr01/bash_parsers/blob/main/json-parser.sh
+Documentation: https://github.com/ammr01/bash_parsers/blob/main/json-parser.md
 
 **HTML Parser** <br>
 Under Construction
