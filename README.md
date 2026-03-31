@@ -33,6 +33,10 @@ Documentation: https://github.com/ammr01/bash_parsers/blob/main/csvparser.md <br
 Code: https://github.com/ammr01/bash_parsers/blob/main/json-parser.sh <br>
 Documentation: https://github.com/ammr01/bash_parsers/blob/main/json-parser.md <br>
 
+**JSON Parser using hashmap** <br>
+Code: https://github.com/ammr01/bash_parsers/blob/main/json-parser-hm.sh <br>
+Documentation: <br>
+
 **HTML Parser** <br>
 Under Construction
 
